@@ -1,0 +1,29 @@
+img{
+max-width: 100%;
+}
+
+body{
+	background-color: beige;
+	font-family: 'Pacifico', cursive;
+}
+
+
+.ed-card{
+	background-color: pink ;
+	margin: 10px
+}
+
+.jumbotron {
+    background-image: url("https://ae01.alicdn.com/kf/HTB1b.ajLXXXXXXuapXXq6xXFXXXF/Luminaria-50-Led-Cherry-Balls-Fairy-String-Decorative-Lights-Battery-Operated-Wedding-Christmas-Outdoor-Patio-Garland.jpg_640x640.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh ;
+}
+
+.box {
+    width: 50%;
+    margin: auto;
+    background: #dae4adb3;
+    padding: 16px;
+}

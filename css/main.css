@@ -1,0 +1,48 @@
+h1{
+	color: red;
+}
+/*class selector */
+.second-heading  {
+	color: blue;
+}
+
+.center {
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.box {
+	background-color :beige;
+	width: 250px;
+	margin: 5px;
+}
+
+.left {
+	float:left; 
+}
+
+.rigth {
+	float:right;
+}
+
+img{
+max-width: 100%;
+}
+
+body{
+	background-color: beige;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+.ed-card{
+	background-color: pink ;
+	margin: 10px
+}
